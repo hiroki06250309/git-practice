@@ -1,9 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-chageing
-new-feature branch change
-no-fast-forward
-
-conflict
-
-conflict remoteにて更新
+自分で更新
